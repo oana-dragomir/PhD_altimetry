@@ -1,2 +1,2 @@
 # PhD_altimetry
-Processing of Envisat and CryoSat-2 along-track data into a gridded monthly product
+Processing of aoong-track sea level data from Envisat and CryoSat-2 into a gridded monthly product
