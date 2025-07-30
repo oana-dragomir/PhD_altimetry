@@ -85,8 +85,8 @@ PhD Thesis: "Dynamics of the subpolar southern ocean response to climate change"
 
 ## License
 
-[https://creativecommons.org/licenses/by/4.0/]
+https://creativecommons.org/licenses/by/4.0/
 
 ---
 
-*This repository supports the processing and analysis of satellite altimetry data for Southern Ocean climate change research.*
+Some utility functions used in this project are adapted from open-source repositories. Special thanks to Clement Vic and Paul Holland for the Antarctic coastline product. Core algorithms and analyses are original contributions developed during my PhD research at the University of Southampton, prior to the widespread adoption of AI tools.
