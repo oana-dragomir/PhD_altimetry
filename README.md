@@ -1,4 +1,4 @@
-# PhD Altimetry - Southern Ocean Dynamic Ocean Topography Processing
+# Satellite Altimetry - Southern Ocean Dynamic Ocean Topography Processing
 
 This repository contains the processing scripts used to generate the **Gridded Altimetric Dynamic Ocean Topography for the Southern Ocean** dataset, supporting the University of Southampton doctoral thesis "Dynamics of the subpolar southern ocean response to climate change" by Oana Claudia Dragomir.
 
