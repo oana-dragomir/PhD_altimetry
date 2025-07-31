@@ -81,7 +81,7 @@ Dragomir, Oana Claudia (2024): Dataset supporting the University of Southampton 
 
 **Oana Claudia Dragomir**  
 University of Southampton  
-PhD Thesis: "Dynamics of the subpolar southern ocean response to climate change"
+PhD Thesis: "Dynamics of the subpolar southern ocean response to climate change" (https://doi.org/10.5258/SOTON/T0085)
 
 ## License
 
